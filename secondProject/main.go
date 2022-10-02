@@ -1,1 +1,1 @@
-package secondProject
+package main
